@@ -17,10 +17,13 @@
 ![mode2](https://user-images.githubusercontent.com/103592889/178049674-23be501c-9d58-40b5-8d3a-7936c932f4a5.png)
 
 
-## Playing game
+## Running Game Intermediate Window
 ![playing](https://user-images.githubusercontent.com/103592889/178049902-6460f4d0-ec60-43a3-9232-fd5c7e34f529.png)
 ![playing2](https://user-images.githubusercontent.com/103592889/178050443-1d39c763-3476-42cd-aeb5-c12c81d46906.png)
 
+
+##  Win Window
+![WIN](https://user-images.githubusercontent.com/103592889/178051429-590a8ad5-2930-472e-906e-462e4afc7b19.png)
 
 ## Game Over - you can restart the game
 ![gameover](https://user-images.githubusercontent.com/103592889/178050026-b716d143-7a12-4481-9d22-f6e148d5a6ae.png)
